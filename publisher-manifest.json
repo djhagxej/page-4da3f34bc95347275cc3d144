@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5dfeb9bb1d89b91c3c336136",
+  "owner": "djhagxej",
+  "repo": "page-4da3f34bc95347275cc3d144",
+  "title": "凌云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4da3f34bc95347275cc3d144",
+      "a": "凌云",
+      "b": "2027最新官网",
+      "entity": "凌云",
+      "brand": "凌云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4bfc0ee05bae1b7f38ed4eb38d1c42cf5177409c0482931c85ce5a5ec715964f",
+      "content": {
+        "primary_entity": "凌云",
+        "keyword1": "凌云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，移动端与桌面端可分别配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后，按设备完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "开启凌云加速",
+          "AI_DESCRIPTION": "，专注为跨境访问、流媒体解锁与游戏加速提供多节点线路，套餐覆盖从轻量到团队协作的不同设备规模，支持按年付费获得更低的月均成本，订阅导入流程清晰，便于在常用客户端中管理。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路等级三个维度对比套餐，快速定位适合自己的方案。",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，支持 3 台设备；旗舰版 300GB 与 5 台设备适合个人主力使用。",
+          "AI_FEATURE_TEXT_2": "团队版提供每月 1000GB 与 20 台设备在线，VIP 高带宽节点适合小团队共享。",
+          "AI_FEATURE_TEXT_3": "按年付比按月付更省，基础版 ¥150/年、旗舰版 ¥350/年，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "团队协作",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "先确定设备数量与流量需求，再按客户端说明配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "凌云面向跨境访问场景，提供基础版、旗舰版与团队版三档套餐，覆盖个人到小团队的设备规模。线路池包含普通节点与 IPLC 专线，旗舰版以上对游戏加速和流媒体解锁有针对性优化。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "年付方案降低月均成本",
+          "AI_PLANS_INTRO": "对比价格、流量上限与同时在线设备数，选择最匹配日常使用强度的套餐。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐对操作系统与客户端版本的要求，确认设备适配情况。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅，完成节点选择与连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "凌云套餐轻松选",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备，适合轻量浏览；旗舰版每月 300GB、5 台设备，含 IPLC 专线优化；团队版每月 1000GB、20 台设备，配有 VIP 节点与专属客户经理。按年付价格更优。",
+          "AI_FAQ_ANSWER_2": "可以，凌云支持同一订阅在手机、电脑和平板等设备上使用，旗舰版最多 5 台设备同时在线。如需更多设备，可选团队版，支持 20 台设备同时在线，并支持企业定制路由。",
+          "AI_FAQ_ANSWER_3": "选择套餐后按所选客户端文档导入订阅链接即可。Windows、macOS、iOS 与 Android 分别使用对应客户端，路由器用户可参考订阅配置方式，将链接填入路由器插件完成设置。",
+          "AI_FAQ_ANSWER_4": "流量按自然月计算，每月 100GB 起步。若当月流量用尽，可等待下月重置或升级至更高档位套餐。团队版每月 1000GB，并配有 VIP 专属高带宽节点，适合多设备与高流量场景。",
+          "AI_FAQ_ANSWER_5": "按年付比月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。设备多、流量需求大或需要企业定制路由的用户，建议直接选择团队版，长期使用更省心。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "凌云三档套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "一个订阅可以多台设备同时用吗？",
+          "AI_FAQ_QUESTION_3": "如何在客户端配置订阅？",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_QUESTION_5": "按年付和月付哪个更划算？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--7gqa846z.com",
+    "host": "xn--7gqa846z.com"
+  },
+  "file_hashes": {
+    "index.html": "30ce71e3ef3b9f0102bdcfd1b9c672a8ec78035e7e1ef41e68d96582048f5df7",
+    "sitemap.xml": "8f0ddfae4157209755001506cc05061e332de9f76427eb9bac7197e9b28cbb56",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dfab51454d818f62851eb5fc130678ce8d717212d30ead0e6e151a07d023c3ff",
+    "robots.txt": "cd20f95ab2e8079ae7120cdf14b8558daf32e230997c13d5875f4799790f585e",
+    "2bd66d99c259fa72ce55aff3a2235916.txt": "853282de4af51442a7e6648b462e0b1e5f8965202bb568ce8ea16a784f7eea0c"
+  },
+  "revision": "395d5444cfdab3e7b4104abf2ce1b1f4148311011c948c7058109a47e54ccacd"
+}
